@@ -9,4 +9,3 @@ Learn to build a login form in React using the **useState** hook for basic state
 - Simple validation for empty fields  
 - Console logs user input upon submit  
 
-## 🧩 File Structure
