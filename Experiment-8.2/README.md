@@ -9,5 +9,3 @@ Learn how to secure backend API routes using **JSON Web Tokens (JWT)**.
 - Protecting API routes from unauthorized access  
 
 ---
-
-## 🗂 Folder Structure
